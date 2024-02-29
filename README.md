@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tejash0
 - 👀 I’m interested in Games
-- 🌱 I’m currently learning Linux
+- 🌱 I’m currently learning C++
 - 📫 How to reach me Gmail:-kmrtejash@gmail.com
 
 <!---
