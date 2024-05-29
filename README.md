@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Tejash0
-- 👀 I’m interested in Games and gamedev
+- 👀 I’m interested in Games , gamedev and software devlopment.
+- I am eagar to learn new things out of my intrest.
 - 🌱 I’m currently learning C++ and DSA
 - 📫 How to reach me Gmail:-kmrtejash@gmail.com
 
